@@ -32,7 +32,6 @@
   <a href="https://www.instagram.com/mauryamaniesh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="25" alt="gmail logo"  />
 </div>
 
 ###
@@ -71,19 +70,8 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiemaniesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookiemaniesh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2&custom_title=m" height="130" alt="languages graph"  />
+<div align="center">
+  <img height="" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rookiemaniesh/rookiemaniesh/output/snake.svg" alt="Snake animation" />
 
 ###
